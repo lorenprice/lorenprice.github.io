@@ -1,0 +1,18 @@
+{
+  "listingMap": {
+    "projects\\index.qmd": [
+      "projects.yml"
+    ],
+    "blog\\index.qmd": [
+      "B3049D40"
+    ],
+    "index.qmd": [
+      "B3049D40",
+      "/blog",
+      "projects.yml"
+    ],
+    "about\\index.qmd": [
+      "projects.yml"
+    ]
+  }
+}
